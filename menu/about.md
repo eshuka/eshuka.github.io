@@ -1,19 +1,27 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title:         Rock Sakong
 permalink: /about
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
 
-### Getting Started
+## Work
+#### KT
+KT, VISION AI Research Engineer (2018.12 ~ )
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
 
-### Example Content
+## Projects
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
+Researched and Developed Vision AI technologies.
+Used Python and C/C++, and deployed a model using Pytorch, Onnx and TensorRT
 
-### Questions?
-
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
+- Developed Gesture Recognition using Hand Keypoints (2022.8 - Current)
+- Developed Food Detection (2021.9 - Current)
+- Developed Vision OpenAPI Server(2021.11 - Current)
+- Researched vision model Optimization and Compression for Edge Device (2021.08 - 2021.11)
+- Researched and developed Face Landmark Detection(2020.08 - 2021.07)
+- Developed Make KT’s Face and Mask Face Recognition Library (2020.04 - 2021.07)
+- Researched and developed Face Eyes Detection(2020.04 - 2021.06)
+- Researched and developed Face and Mask Face Detection(2020.01 - 2021.12)
+- Developed Face Blur Classification (2020.01 - 2020.03)
+- Researched and developed Face Attribution Classification for glasses, masks, and hats (2019.01 - 2019.12)
