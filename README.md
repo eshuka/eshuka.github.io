@@ -7,14 +7,8 @@ KT, VISION AI Research Engineer (2018.12 ~ )
 ## Projects
 
 Researched and Developed Vision AI technologies.
-Main Language:
-- Python / C/C++
-- 
-Using Library t0 deployed a model
-- Pytorch
-- Onnx
-- TensorRT
-- Triton Inference Server
+Main Language: Python, C/C++ 
+Use Library: Pytorch, Onnx, TensorRT, Docker, Triton Inference Server, Kubernetes
 
 - Developed Large Vision Model Weight Lightening and Optimiation (2023.1 - current)
 - Developed Large Vision Model Weight Lightening and Optimiation (2023.1 - current)
