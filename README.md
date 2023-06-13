@@ -11,7 +11,7 @@ Main Language: Python, C/C++
 Use Library: Pytorch, Onnx, TensorRT, Docker, Triton Inference Server, Kubernetes
 
 - Developed Large Vision Model Weight Lightening and Optimiation (2023.1 - current)
-- Developed Large Vision Model Weight Lightening and Optimiation (2023.1 - current)
+- Developed Stable Diffusion Model Weight Lightening and Optimiation (2023.1 - current)
 - Developed Gesture Recognition using Hand Keypoints (2022.1 - 2022.12)
 - Developed Food Detection (2021.9 - 22.08)
 - Developed Vision OpenAPI Server(2021.11 - current)
