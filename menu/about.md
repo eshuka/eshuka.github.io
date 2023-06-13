@@ -12,7 +12,7 @@ KT, VISION AI Research Engineer (2018.12 ~ )
 
 ## Projects
 
-Researched and Developed Vision AI technologies. 
+Researched and Developed Vision AI technologies. <\br>
 Used Python and C/C++, and deployed a model using Pytorch, Onnx and TensorRT, Docker, Triton Inference Server, Kubernetes
 
 - Developed Large Vision Model Weight Lightening and Optimiation (2023.1 - current)
